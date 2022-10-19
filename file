@@ -1,0 +1,11 @@
+[33mcommit 2f7cad766790a97c4be18f5004daf3dc178e5199[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Bishal Rai <bishal6193@gmail.com>
+Date:   Wed Oct 12 02:40:02 2022 +0545
+
+    Server repo is initialized.
+
+[33mcommit e80b99494ee716321fdd736fdd73098fd7996837[m
+Author: Bishal Rai <bishal6193@gmail.com>
+Date:   Wed Oct 12 01:14:20 2022 +0545
+
+    Initialize project using Create React App
